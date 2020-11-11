@@ -226,6 +226,8 @@ th {
 label {
   display: inline-block;
   margin-bottom: 0.5rem;
+  margin: 10%
+
 }
 
 button {
@@ -246,6 +248,7 @@ textarea {
   font-family: inherit;
   font-size: inherit;
   line-height: inherit;
+  
 }
 
 button,
