@@ -226,7 +226,7 @@ th {
 label {
   display: inline-block;
   margin-bottom: 0.5rem;
-  margin: 10%
+  margin-left: 17%;
 
 }
 
@@ -254,6 +254,7 @@ textarea {
 button,
 input {
   overflow: visible;
+  
 }
 
 button,
@@ -274,6 +275,7 @@ button,
 [type=reset],
 [type=submit] {
   -webkit-appearance: button;
+  margin-left: 5%;
 }
 
 button:not(:disabled),
